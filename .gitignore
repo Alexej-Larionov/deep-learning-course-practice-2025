@@ -209,3 +209,7 @@ __marimo__/
 /.vscode
 /laboratory_work_1/MNIST_DATA
 /laboratory_work_1/LarionovAI/MNIST_DATA
+/laboratory_work_2/LarionovAI/cifar-10-batches-py
+/laboratory_work_2/LarionovAI/cifar-10-python.tar.gz
+/laboratory_work_2/LarionovAI/mlruns
+/.venv
