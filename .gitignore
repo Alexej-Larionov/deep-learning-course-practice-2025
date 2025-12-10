@@ -213,3 +213,6 @@ __marimo__/
 /laboratory_work_2/LarionovAI/cifar-10-python.tar.gz
 /laboratory_work_2/LarionovAI/mlruns
 /.venv
+/laboratory_work_3/LarionovAI/Data
+/laboratory_work_3/LarionovAI/models
+/laboratory_work_3/LarionovAI/final_models
