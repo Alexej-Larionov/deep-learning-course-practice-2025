@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+/laboratory_work_4/LarionovAI/fixed_masks_train
+/laboratory_work_4/LarionovAI/fixed_masks_test
+/laboratory_work_4/LarionovAI/SUIM
+/laboratory_work_4/LarionovAI/utils.py
+/laboratory_work_4/LarionovAI/checkpoints
+/laboratory_work_4/LarionovAI/Data_pipeline.ipynb
+/laboratory_work_4/LarionovAI/SegDataset.py
